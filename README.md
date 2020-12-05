@@ -30,3 +30,6 @@
 | ------------- | ------------- | ------------- | ------------- |
 | ![alt](./img/7.png) | ![alt](./img/5.png) | ![alt](./img/4.png) | ![alt](./img/6.png) |
 
+Por el profesor:
+GitHub:
+https://github.com/ljavierrodriguez
